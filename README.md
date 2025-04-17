@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # shopingLapTob
 =======
 Laptop Shop - Full Stack Web Application
@@ -83,3 +84,7 @@ Once the project is running:
         Proceed with the purchase
 
 >>>>>>> aa80f8397a4b2baa4bd9fc81002f7c9590432825
+=======
+# Apple-Shop
+Exclusive Apple Products
+>>>>>>> 71c244639da5628e093d279fe6beb5718f3257c2
